@@ -1,0 +1,34 @@
+.background {
+    -fx-background-color: #0097A7;
+}
+.emphasis {
+    -fx-background-color: #008080;
+}
+.button-viewProfile{
+	-fx-background-color:#0097A7;
+	-fx-font-size: 10pt;
+	-fx-text-fill: #ffffff;
+	-fx-alignment: CENTER;
+	-fx-border-color:#ffffff;
+}
+
+.window-title{
+	-fx-font-size: 18pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #0097A7;
+	-fx-font-weight-bold:true;
+}
+
+.name-label{
+	-fx-font: 14pt "Arial";
+}
+.description-label{
+	-fx-font: italic 12pt "Arial";
+	-fx-opacity:0.6;
+}
+
+.profile-textField{
+	-fx-background-color: transparent;
+	-fx-border-color:#ffffff;
+	-fx-text-fill: #ffffff;
+}
